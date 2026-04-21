@@ -1,4 +1,4 @@
-# Financial Data Automation
+# Local Financial Data Processor
 
 ## 📌 Project Overview
 This project automates financial data processing using Python.
