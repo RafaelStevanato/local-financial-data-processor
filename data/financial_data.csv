@@ -1,0 +1,8 @@
+date,category,description,amount
+2026-04-01,Sales,Order 1001,1500.00
+2026-04-01,Sales,Order 1002,2300.00
+2026-04-02,Refund,Refund 2001,-200.00
+2026-04-03,Expenses,Office Supplies,-350.00
+2026-04-03,Sales,Order 1003,1800.00
+2026-04-04,Expenses,Software Subscription,-120.00
+2026-04-05,Sales,Order 1004,2750.00
